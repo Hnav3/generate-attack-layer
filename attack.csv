@@ -1,0 +1,4 @@
+useCase,dataSource,techID
+Sample Rule 1,EDR,T1003
+Sample Rule 2,AV,T1003
+Sample Rule 3,EDR,T1218

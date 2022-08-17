@@ -6,8 +6,8 @@ import sys
 # Static ATT&CK Navigator layer JSON fields
 LAYER_VERSION = "4.3"
 NAV_VERSION = "4.0"
-NAME = "GIOC RD Att&ck Coverage"
-DESCRIPTION = "Att&ck coverage by GIOC RD USe Cases + EDR"
+NAME = "LAYERNAME"
+DESCRIPTION = "DESCRIPTION OF LAYER"
 DOMAIN = "enterprise-attack"
 
 # Base ATT&CK Navigation layer
